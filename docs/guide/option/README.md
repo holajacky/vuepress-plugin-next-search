@@ -51,9 +51,10 @@ tag:
 - 详情\
   用于自定义`category`和`tag`在搜索框内的显示文字。
 - 举个栗子
-  ```ts
+
+```ts
   frontmatter: {
     tag: '标签',
     category: '分类',
   }
-  ```
+```
