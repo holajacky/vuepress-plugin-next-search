@@ -24,7 +24,7 @@ features:
   details: 使用vuepress2制作，主题为vuepress-theme-hope/v2，求来个英语牛B的帮忙搞下英文文档，要求：用爱发电
   icon: alias
 copyright: false
-footer: MIT Licensed | Copyright © holajacky@126.com
+footer: MIT Licensed | Copyright © holajacky@126.com | <a href="https://beian.miit.gov.cn/" target="_blank">浙ICP备2022017723号-1</a>
 ---
 
 ## 📖鸣谢名单
