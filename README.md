@@ -17,7 +17,7 @@
 > 理论上支持所有语言的搜索，只是理论奥！\
 > In theory, it supports search in all languages, but in theory!
 
-<h2><a href="http://vuepress-plugin-next-search.holajacky.com" target="blank">在线文档 / Online Docs</a></h2>
+<h2><a href="http://vuepress-plugin-next-search.holajacky.com" target="_blank">在线文档 / Online Docs</a></h2>
 
 **推荐使用在线文档查看如何使用**\
 **Recommend using online documentation to see how to use**
