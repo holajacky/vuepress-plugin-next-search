@@ -17,7 +17,7 @@
 > 理论上支持所有语言的搜索，只是理论奥！\
 > In theory, it supports search in all languages, but in theory!
 
-## [在线文档 / Online Docs](http://vuepress-plugin-next-search.holajacky.com)
+<h2><a href="http://vuepress-plugin-next-search.holajacky.com" target="blank">在线文档 / Online Docs</a></h2>
 
 备案中，懂的都懂（。。。温馨提示：管局审核时间约为7天。。。）
 
