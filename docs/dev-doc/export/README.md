@@ -107,7 +107,7 @@ export { nextSearchPlugin }
 ```
 :::
 
-### 使用 define Hook
+### define Hook
 
 > 插件 API 提供了一个 define Hook 来定义客户端代码中的全局常量。你可以利用它来向客户端传递数据。
 
@@ -162,7 +162,7 @@ declare const NEXT_SEARCH_OPTIONS: Options
 全局常量推荐使用下划线开头，源码也是如此，只是MD这里用了下划线开头后无法打包
 :::
 
-### 使用 defineClientConfig
+### defineClientConfig
 
 > 你可以直接在你的项目中使用 客户端配置文件 。或者，在你的插件或者主题中，使用 clientConfigFile
 
@@ -185,7 +185,7 @@ const nextSearchPlugin: (options: Options) => Plugin = (options) => {
 export { nextSearchPlugin }
 ```
 
-#### enhance
+### enhance
 
 [vuepress官网关于enhance的介绍](https://v2.vuepress.vuejs.org/zh/advanced/cookbook/usage-of-client-config.html#enhance)
 
