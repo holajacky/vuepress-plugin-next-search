@@ -47,7 +47,7 @@
 </template>
 
 <script lang="ts">
-  import { defineComponent, ref, computed, toRefs } from 'vue'
+  import { defineComponent, ref, computed } from 'vue'
   import { useRouter } from 'vue-router'
   import { useSuggestions } from '../core/matchQuery'
   import { useThemeData } from '@vuepress/plugin-theme-data/lib/client'
