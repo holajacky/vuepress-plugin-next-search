@@ -56,7 +56,7 @@
     name: 'SearchBox',
     setup() {
       const options = __NEXT_SEARCH_OPTIONS__
-      const { placeholder } = toRefs(options)
+      const { placeholder } = options.placeholder
       const query = ref('')
       const focused = ref(false)
       const focusIndex = ref(0)

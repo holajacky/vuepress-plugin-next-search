@@ -43,7 +43,7 @@ tag:
 - 类型：`string`
 - 默认值：`'搜索'`
 - 详情\
-  搜索输入框的 placeholder 属性。
+  搜索输入框的 `placeholder` 属性。
 
 ## frontmatter
 
